@@ -17,7 +17,7 @@ export default function Menu({ translateY }) {
       <Code>
         <QRCode
           value="https://linkedin.com/in/matheusmhmelo"
-          size={80}
+          size={320}
           fgColor="#FFF"
           bgColor="#8B10AE"
         />
